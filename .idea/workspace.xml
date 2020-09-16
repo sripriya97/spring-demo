@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EmployeeCrud.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38af17a3-397b-4f6d-820c-3cd69a3fefae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring/SpringHelloWorld/.idea/SpringHelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/0/6/0633beba0a87d79ce8855bac560db22f712a8027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/3/0/305b3bb8194d08e1e32b17ac5f1d53c1cf0118c1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/b/c/bcf0bbfc4703605341de4a85360a34ee8168a845" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/e/5/e58a6c42062d7c439a8dbccb25cba04c70b66612" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/f/0/f0c42be3487b76d5c1dab8c8fe4895b7d1d00916" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keep Notes Assignment/keepnote-step1-boilerplate/.idea/sonarlint/issuestore/3/0/305b3bb8194d08e1e32b17ac5f1d53c1cf0118c1" beforeDir="false" afterPath="$PROJECT_DIR$/Keep Notes Assignment/keepnote-step1-boilerplate/.idea/sonarlint/issuestore/3/0/305b3bb8194d08e1e32b17ac5f1d53c1cf0118c1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_bt_annotation_configuration_student/src/main/java/com/stackroute/spring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_bt_annotation_configuration_student/src/main/java/com/stackroute/spring/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_bt_annotation_configuration_student/src/main/java/com/stackroute/spring/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_bt_annotation_configuration_student/src/main/java/com/stackroute/spring/model/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/src/main/java/com/stackroute/employee/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/SpringMVCHelloDemo/src/main/java/com/stackroute/employee/controller/EmployeeController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Keep Notes Assignment/keepnote-step1-boilerplate" />
+  </component>
+  <component name="ProjectId" id="1guvFDXN9ZT8PeNVv3JDUsi6vcW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/EmployeeCrud" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.tomcat">
+    <configuration name="EmployeeCrud [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/EmployeeCrud" />
+      <option name="docBase" value="$PROJECT_DIR$/target/EmployeeCrud" />
+      <option name="envOptions" />
+      <option name="moduleName" value="EmployeeCrud" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.37" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.37" />
+          <option name="version" value="9.0.37.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EmployeeCrud.war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.EmployeeCrud [package]" />
+      <item itemvalue="Smart Tomcat.tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.EmployeeCrud [package]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38af17a3-397b-4f6d-820c-3cd69a3fefae" name="Default Changelist" comment="" />
+      <created>1598977185129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598977185129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="136" width="426" height="383" key="#BuildArtifactsBeforeRunChooser" timestamp="1598978028162">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state x="465" y="136" width="426" height="383" key="#BuildArtifactsBeforeRunChooser/0.24.1364.609@0.24.1364.609" timestamp="1598978028162" />
+    <state x="277" y="24" width="849" height="608" key="#Project_Structure" timestamp="1599043343984">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state x="277" y="24" width="849" height="608" key="#Project_Structure/0.24.1364.609@0.24.1364.609" timestamp="1599043343984" />
+    <state x="140" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598978031165">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state x="140" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1364.609@0.24.1364.609" timestamp="1598978031165" />
+    <state x="465" y="72" width="426" height="512" key="FileChooserDialogImpl" timestamp="1598978018258">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state x="465" y="72" width="426" height="512" key="FileChooserDialogImpl/0.24.1364.609@0.24.1364.609" timestamp="1598978018258" />
+    <state width="1318" height="132" key="GridCell.Tab.0.bottom" timestamp="1599043938817">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state width="1318" height="132" key="GridCell.Tab.0.bottom/0.24.1364.609@0.24.1364.609" timestamp="1599043938817" />
+    <state width="1318" height="132" key="GridCell.Tab.0.center" timestamp="1599043938817">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state width="1318" height="132" key="GridCell.Tab.0.center/0.24.1364.609@0.24.1364.609" timestamp="1599043938817" />
+    <state width="1318" height="132" key="GridCell.Tab.0.left" timestamp="1599043938816">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state width="1318" height="132" key="GridCell.Tab.0.left/0.24.1364.609@0.24.1364.609" timestamp="1599043938816" />
+    <state width="1318" height="132" key="GridCell.Tab.0.right" timestamp="1599043938817">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state width="1318" height="132" key="GridCell.Tab.0.right/0.24.1364.609@0.24.1364.609" timestamp="1599043938817" />
+    <state x="171" y="24" width="1014" height="609" key="SettingsEditor" timestamp="1598977817281">
+      <screen x="0" y="24" width="1364" height="609" />
+    </state>
+    <state x="171" y="24" width="1014" height="609" key="SettingsEditor/0.24.1364.609@0.24.1364.609" timestamp="1598977817281" />
+  </component>
+</project>
